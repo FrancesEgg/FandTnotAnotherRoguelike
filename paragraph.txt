@@ -1,0 +1,13 @@
+Right now it is going okay but I don't know some very specific things and I don't know how I would find those
+things out. Like right now to implement my attack functions I want to take in entities, whether it is a player or monster
+or entity but I don't know if just putting entity is going to take in any of those class types.
+
+then I also don't know how to implement inheritance very well so I'll have to work on that some more
+to ensure that my inheritance is actually doing what I need it to.
+
+Also I might not need a treasure subclass and might instead do an enum and random generator.
+
+
+Notes to frances - 
+I sorta abandoned the treasure system. It's fine, don't worry about it. Player moves correctly, map is printing fine,
+and combat w/ monster is working. Good luck! You'll kill it.
